@@ -2,7 +2,7 @@ const APP_PREFIX = 'BudgetTrack-';
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 const FILES_TO_CACHE = [
-	"/",
+	"./",
 	"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
 	"https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
 	"./index.html",
